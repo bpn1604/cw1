@@ -16,10 +16,13 @@ const First = () =>{
 export const Second = () =>{
     return <>
     <h1>Mobile Manufacturer</h1>
-    <ul>Samsung</ul>
-    <ul>HTC</ul>
-    <ul>Micromax</ul>
-    <ul>Apple</ul>
+    <ul>
+    <li>Samsung</li>
+    <li>HTC</li>
+    <li>Micromax</li>
+    <li>Apple</li>
+    </ul>
+    
     </>
 }
 
