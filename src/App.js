@@ -5,8 +5,7 @@ import {Second} from './component/First'
 //console.log(first)
 function App() {
   return <>
-  <First/>
-  <Second/>
+  
   </>
    
 
