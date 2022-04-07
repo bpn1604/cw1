@@ -1,11 +1,11 @@
 //import logo from './logo.svg';
 import './App.css';
-import First  from './component/First';
-import {Second} from './component/First'
+import Counter from './Day2/counter';
+
 //console.log(first)
 function App() {
   return <>
-  
+    <Counter />
   </>
    
 
