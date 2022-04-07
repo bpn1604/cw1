@@ -1,10 +1,16 @@
 const First = () =>{
     return <>
     <h1>Mobile Operating System</h1>
-    <ul>Andriod</ul>
-    <ul>Blackberry</ul>
-    <ul>iPhone</ul>
-    <ul>Windows Phone</ul>
+    <ul>
+        
+    <li>Andriod</li>
+    <li>Blackberry</li>
+    <li>iPhone</li>
+    <li>Windows Phone</li>
+        
+
+    </ul>
+    
     </>
 }
 export const Second = () =>{
